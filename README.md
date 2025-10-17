@@ -10,4 +10,6 @@ Todos os drivers que você precisa, esse script te salvará!!
 *LG
 *MOTOROLA
 *SAMSUNG
-E entre outros...
+E entre outros..
+
+VC 2008, 2010 E 2015/2022
